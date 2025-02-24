@@ -1,16 +1,15 @@
-**AWS Multi-Region Inventory Script 🌍🚀**
+AWS Multi-Region Inventory Script 🌍🚀
 
-**📊 Automated AWS Inventory Management using Python & Boto3
+📊 Automated AWS Inventory Management using Python & Boto3
 
 ✅ Find & Export AWS Resources (EC2, S3, Lambda, IAM, ECR, VPC, DynamoDB, etc.) across multiple AWS regions
 
 ✅ Generate Excel reports for cloud asset tracking & cost optimization
 
-✅ Simplify AWS infrastructure audits with real-time resource discovery**
+✅ Simplify AWS infrastructure audits with real-time resource discovery
 
 
-
-**🚀 Why Use This Script?**
+🚀 Why Use This Script?
 
 🔹 Effortless AWS Asset Tracking - Automatically list all AWS services across multiple regions
 
@@ -23,7 +22,7 @@
 Perfect for AWS Administrators, DevOps Engineers, Cloud Architects & Security Teams
 
 
-**🛠 Prerequisites**
+🛠 Prerequisites
 
 Before running this script, ensure you have:
 
@@ -116,7 +115,7 @@ REGIONS = ["us-east-1", "us-west-1", "eu-central-1"]
 🔹 EC2, S3, IAM, Lambda, VPC Inventory
 
 
-📜 License
+📜 **License**
 
 This project is open-source and licensed under the MIT License.
 
