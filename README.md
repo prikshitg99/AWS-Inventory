@@ -1,4 +1,4 @@
-****AWS Multi-Region Inventory Script******** 🌍🚀
+AWS Multi-Region Inventory Script 🌍🚀
 
 📊 Automated AWS Inventory Management using Python & Boto3
 
@@ -115,11 +115,11 @@ REGIONS = ["us-east-1", "us-west-1", "eu-central-1"]
 🔹 EC2, S3, IAM, Lambda, VPC Inventory
 
 
-📜 **License**
+📜 License
 
 This project is open-source and licensed under the MIT License.
 
 
-👨‍💻 **Contributing**
+👨‍💻 Contributing
 
 💡 Have ideas to improve the script? Fork the repo & submit a pull request!
