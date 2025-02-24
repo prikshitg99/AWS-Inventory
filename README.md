@@ -1,4 +1,4 @@
-AWS Multi-Region Inventory Script 🌍🚀
+AWS Multi-Region Inventory Script 🌍🚀 
 📊 Automated AWS Inventory Management using Python & Boto3
 
 ✅ Find & Export AWS Resources (EC2, S3, Lambda, IAM, ECR, VPC, DynamoDB, etc.) across multiple AWS regions
