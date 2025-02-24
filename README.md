@@ -1,4 +1,4 @@
-**AWS Multi-Region Inventory Script** 🌍🚀
+****AWS Multi-Region Inventory Script******** 🌍🚀
 
 📊 Automated AWS Inventory Management using Python & Boto3
 
